@@ -1,0 +1,30 @@
+* {
+  text-align: center;
+}
+section {
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+  align-content: center;
+  text-align: center;
+  background-color: rgb(73, 73, 184);
+  border-radius: 10px;
+  padding: 15px;
+  margin: auto;
+  width: 500px;
+}
+
+#bb {
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+  align-content: center;
+  text-align: center;
+  justify-content: center;
+}
+#res {
+  background-color: white;
+  width: 100%;
+  height: 40%;
+  margin-top: 5%;
+}
